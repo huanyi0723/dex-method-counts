@@ -9,3 +9,5 @@ path\*.apk就是你统计的某项目的方法。
  java -jar dex-method-counts.jar  C:\Users\lifeix\Desktop\Pintimes.apk 
  java -jar dex-method-counts.jar  C:\Users\lifeix\Desktop\hello.apk > C:\Users\lifeix\Desktop\info.txt
  
+ http://blog.csdn.net/t12x3456/article/details/40837287
+ 
